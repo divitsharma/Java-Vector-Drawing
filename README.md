@@ -8,5 +8,5 @@ A vector drawing software created as part of a UI course, using the Java Swing t
 > Note: code isn't uploaded since I'm not sure that's entirely allowed by the course.
 
 ![Mosiac drawing with undocked toolbar](images/mosaic-undocked.png)
-![Mosiac drawing with undocked toolbar](images/select.png)
+![Docked usage](images/select.png)
 
