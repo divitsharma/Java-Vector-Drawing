@@ -5,5 +5,5 @@ A vector drawing software created as part of a UI course. Key features:
 - Files are saved and loaded with the `.drw` extension.
 - Selecting an already selected shape will unselect it. This makes moving shapes a bit annoying, <br> but is necessary in the case that the canvas is full.
 
-
+> Note: code isn't uploaded since I'm not sure that's entirely allowed by the course.
 
